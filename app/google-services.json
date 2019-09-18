@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "148959589453",
+    "firebase_url": "https://lapa-a7a88.firebaseio.com",
+    "project_id": "lapa-a7a88",
+    "storage_bucket": "lapa-a7a88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148959589453:android:d0f775a1eda7d2a0",
+        "android_client_info": {
+          "package_name": "com.example.awesomeguy.lapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148959589453-da2isqd5gmb9h18qeetd0h7ekaqaf9or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.awesomeguy.lapa",
+            "certificate_hash": "a83e00a7433485088953007d98f56afb9cf09506"
+          }
+        },
+        {
+          "client_id": "148959589453-1g23fapp0fe5pc5ddjrtfdf0d854f5c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1XOG1dQekrG7dDH6i6IA_JLDIZAWzMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148959589453-1g23fapp0fe5pc5ddjrtfdf0d854f5c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
